@@ -11,7 +11,7 @@
 
 
 ### Code time
-[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddypahm&show_icons=true&theme=react)](https://github.com/eddypahm/github-readme-stats)
+[[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddypahm&show_icons=true&theme=react)](https://github.com/eddypahm/github-readme-stats)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?eddypahm=FelipeFama&&show_icons=true&theme=dark)
 <br/>
 
 
